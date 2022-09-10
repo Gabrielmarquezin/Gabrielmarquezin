@@ -14,7 +14,7 @@
 </div>
 
 ![snake gif](https://github.com/Gabrielmarquezin/Gabrielmarquezin/blob/output/github-contribution-grid-snake.svg)
-<img src='https://github.com/Gabrielmarquezin/Gabrielmarquezin/blob/output/github-contribution-grid-snake.svg' color='418cf2'/>
+
 
 "I'm here if you need me"  
 
