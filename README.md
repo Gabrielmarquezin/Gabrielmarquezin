@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabriel+Marques+Araujo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
-**Gabrielmarquezin/Gabrielmarquezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm a web development student, and I'm taking a computer course at EEEP Adriano Nobre.
+
+
+
+<div aling='center'>
+
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarquezin&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarquezin&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
+  
+</div>
+
+"I'm here if you need me"  
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.boring)
+
