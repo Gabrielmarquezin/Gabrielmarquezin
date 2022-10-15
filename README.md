@@ -2,7 +2,7 @@
 
 
 
-#### Sou estudante de densenvolvimento web e faço curso de informática na EEEP Adriano Nobre.
+#### Sou estudante de densevolvimento web e faço curso de informática na EEEP Adriano Nobre.
 <br>
 
 
