@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+Meu+nome+e+Gabriel+Marques+Araujo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Eae!+Meu+nome+e+Gabriel+Marques+Araujo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-#### Sou estudante de desenvolvimento web e faço curso de informática na EEEP Adriano Nobre.
+#### Desenvolvedor de software e técnico em informática.
+##### Portifólio: https://portifolio-gamma-virid.vercel.app
 <br>
 
 
@@ -24,17 +25,12 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 <img widht='53px' height='53px' src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"/>&nbsp; &nbsp;
-![Firestore](https://img.icons8.com/color/48/000000/cloud-firestore.png) 
+![Firestore](https://img.icons8.com/color/48/000000/cloud-firestore.png)&nbsp; &nbsp;
+![https://icons8.com/icon/bzf0DqjXFHIW/react](https://img.icons8.com/office/46/react.png)&nbsp; &nbsp;
+![TypeScript](https://img.icons8.com/color/48/typescript.png)&nbsp; &nbsp;
+![Python](https://img.icons8.com/fluency/48/python.png)&nbsp; &nbsp;
 <br>
 <br>
-
-##### ESTUDANDO ATUALMENTE:
-![REACT](https://img.icons8.com/plasticine/50/000000/react.png)&nbsp;
-<img widht='50px' height='50px' src='https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png'/>&nbsp; &nbsp;
-<img widht='50px' height='50px' src='https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png'/>&nbsp;
-<br>
-<br>
-
 
 ##### Estou aqui se precisar:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.boring)
